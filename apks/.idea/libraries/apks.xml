@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="apks">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/application.zip!/" />
+      <root url="jar://$PROJECT_DIR$/bundletool-all-1.17.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
